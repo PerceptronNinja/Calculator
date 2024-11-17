@@ -1,8 +1,4 @@
-Here's a GitHub-ready **README.md** file, formatted to include detailed instructions and designed for a PyCharm-based project setup.
-
----
-
-# Stylish Calculator Web App
+# Calculator Web App
 
 This is a visually appealing and user-friendly calculator web application built with **Flask**, **HTML**, and **CSS**. The design is inspired by a modern calculator interface and is perfect for performing basic arithmetic operations in style.
 
