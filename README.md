@@ -86,6 +86,8 @@ calculator/
 ---
 
 ## Screenshots
+<img width="762" alt="Screenshot 2024-11-17 at 5 31 39 PM" src="https://github.com/user-attachments/assets/0357114d-c596-4a49-ba13-ab681466024c">
+
 
 ### Calculator Interface
 
